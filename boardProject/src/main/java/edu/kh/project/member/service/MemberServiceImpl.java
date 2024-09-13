@@ -56,7 +56,7 @@ public class MemberServiceImpl implements MemberService{
 		
 		// 암호화 테스트
 		//log.debug("memberPw : {}", memberPw);
-		//log.debug("암호화된 memberPw : {}", encoder.encode(memberPw) );
+//		log.debug("암호화된 memberPw : {}", encoder.encode(memberPw) );
 		
 		
 		// 1. memberEmail이 일치하는 회원의 정보를 DB에서 조회
